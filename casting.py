@@ -17,3 +17,5 @@ print(type(x))
 y = float(x)
 print(y)
 print(type(y))
+
+#string to int
