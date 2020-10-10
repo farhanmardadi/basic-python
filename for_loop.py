@@ -1,3 +1,5 @@
+#looping dimana iterasi dilakukan sebanyak jumlah data
+
 nama_buah = ["apel", "jeruk", "mangga"]
 
 print(nama_buah[0])

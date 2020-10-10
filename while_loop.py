@@ -1,3 +1,5 @@
+#looping dimana iterasi dilakukan selaa kondisi terpenuhi
+
 i = 1
 
 while i < 14:
